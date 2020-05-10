@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<bdd>
+    <items>
+        <item>
+            <name>Item 1 </name>
+            <description>Mon item 1</description>
+        </item>
+        <item>
+            <name>Item 2 </name>
+            <description>Mon item 2</description>
+        </item>
+        <item>
+            <name>Item 3 </name>
+            <description>Mon item 3</description>
+        </item>
+        <item>
+            <name>Item 4 </name>
+            <description>Mon item 4</description>
+        </item>
+    </items>
+    <categories>
+        <category>
+            <name>Categorie 1</name>
+            <public>true</public>
+        </category>
+        <category>
+            <name>Categorie 2</name>
+            <public>false</public>
+        </category>
+    </categories>
+    <website>
+        <name>Mon Joli Site</name>
+        <url>https://google.fr</url>
+    </website>
+    <un_nombre>15875</un_nombre>
+</bdd>

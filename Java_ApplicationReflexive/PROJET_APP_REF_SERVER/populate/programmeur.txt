@@ -1,0 +1,6 @@
+guillaume;test;ftp://srv4.poneyhost.eu/
+daran;test;ftp://srv4.poneyhost.eu/
+florian;test;ftp://srv4.poneyhost.eu/
+bintou;test;ftp://srv4.poneyhost.eu/
+anoup;test;ftp://srv4.poneyhost.eu/
+ulysse;test;ftp://srv4.poneyhost.eu/
